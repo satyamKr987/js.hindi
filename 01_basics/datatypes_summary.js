@@ -32,4 +32,19 @@ const myFunction = function (){
     console.log("Hello World");
 }
 
-console.log(typeof outsideTemp);
+// console.log(typeof outsideTemp);
+
+
+
+//++++++++++++++++++++
+
+// Stack(Primitive), Heap (Nom - primitive)
+
+
+let myYoutubename = "satyamkr"
+
+let anothername = myYoutubename 
+anothername = "chaiorcode"
+console.log(myYoutubename );
+console.log(anothername);
+
